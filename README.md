@@ -4,7 +4,7 @@ I have always been intrigued by the world of business and how humans can adapt, 
 terrains and environments. Since the inception of the web a new frontier was born. As a pioneer, 
 It is my duty to challenge myself every day to help humanity unlock its full potential....... hmmm maybe I've been watching too many episodes of Black Mirror.  
 - 👀 I’m interested in working with startups scale and grow.
-- 🌱 I’m currently learning ruby on rails
+- 🌱 I’m currently learning nestjs
 - 💞️ I’m looking to collaborate on cool projects, so reach out if you have a cool idea.
 - 📫 How to reach me, email me at lawrence.nicastro1@gmail.com
 
